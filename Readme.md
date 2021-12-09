@@ -4,6 +4,6 @@ CNC String Printer is a basic console application, that uses **File I/O** to gen
 
 ![input image] (https://github.com/vkm41101/CNC-String-Printer/blob/master/Picture2.png)
 
-The File Loks like as shown Below:
+The File Looks like as shown Below:
 
 ![file image] (https://github.com/vkm41101/CNC-String-Printer/blob/master/Picture1.png)
